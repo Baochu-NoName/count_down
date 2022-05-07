@@ -26,7 +26,7 @@ def set_timer(hour_time, min_time, sec_time):
             playsound("Dance_Monkey.mp3") # Your python file and .mp3 file must be in the same folder
             break
 
-        print(hour_number, min_number, sec_number)
+        print(hour_number, min_number, sec_number)#print out terminal
 
         
 
